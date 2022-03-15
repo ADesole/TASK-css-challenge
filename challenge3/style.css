@@ -1,10 +1,24 @@
 /* Add your code in each class */
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+
 .container {
+  height: 300px;
+  width: 400px;
+  overflow: scroll;
 }
 .head {
+  font-family: 'Sansita+Swashed';
+  background-color: orange;
+  color: darkmagenta;
+  position: sticky;
+  top: 0;
 }
 
 .row {
+  font-family: 'Sansita+Swashed';
+  background-color: yellow;
+  color: darkgreen;
+
   /* .row is used in ./index.js not in the html filee */
 }
 

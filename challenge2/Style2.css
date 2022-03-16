@@ -1,5 +1,5 @@
 body {
-    background-image: url(pokemon-bg.jpg);
+    background-image: url(/assets/pokemon-bg.jpg);
     background-color: blue;
 }
 .padding {
@@ -33,4 +33,5 @@ p{
     margin-right: auto;
     width: 200px;
     height: 200px;
+    border-radius: 70%;
 }
